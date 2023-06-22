@@ -23,7 +23,7 @@ public class TestKDTree {
 
 	@Test
 	public void testInsertion() {
-		AssertTrue(False);
+		AssertTrue(false);
 		Assertions.assertEquals(this.kdTree.getSize(), 9);
 	}
 
